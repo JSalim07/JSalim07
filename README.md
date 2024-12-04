@@ -27,7 +27,7 @@
 
 ### **Habilidades y Tecnologías**
 - **Lenguajes de programación**: Python y C  
-- **Uso de tecnologías**: Arduino y Raspberry Pi para proyectos de integración y automatización  
+- **Uso de tecnologías**: Arduino y Raspberry Pi para proyectos de integración y automatización, manejo de marcas como hikvision, ubiquiti, Huawei Firewalls, Kenwood, ICOM, Ugreen, HID, entre otras.   
 - **Interconexión en red**: Diseño e implementación de soluciones conectadas  
 - **Gestión de proyectos**: Planificación y ejecución estratégica  
 - **Integración de equipos**: Soluciones tecnológicas personalizadas con un equipo profesional y altamente capacitado  
