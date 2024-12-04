@@ -4,7 +4,14 @@
 <hr>
 <h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Justin Contreras</h1>
 <h3 align="center">Entusiasta de Marketing Digital | Apasionado por la Tecnología</h3>
-### **Matricula: 13634**
+
+<p align="center">
+  <em>
+    Matricula: 13634
+  </em> 
+</p>
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/justinsalem/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:justinsalimcg09@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
@@ -12,7 +19,7 @@
 
 <p align="center">
   <em>
-    Soy un <b>profesional</b> dedicado a la tecnología y las comunicaciones, enfocado en ofrecer <b>soluciones innovadoras</b> que impulsen el crecimiento. Con experiencia en múltiples áreas, disfruto combinar mi pasión por la <b>tecnología</b> y el <b>marketing</b> para ayudar a las empresas a sobresalir.
+    Soy un <b>aprendiz</b> dedicado a la tecnología y las comunicaciones, enfocado en ofrecer <b>soluciones innovadoras</b> que impulsen el crecimiento. Con experiencia en múltiples áreas, disfruto combinar mi pasión por la <b>tecnología</b> y el <b>marketing</b> para ayudar a las empresas a sobresalir.
   </em> 
 </p>
 
