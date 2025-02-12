@@ -3,7 +3,6 @@
 </p>
 <hr>
 <h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Justin Contreras</h1>
-<h3 align="center">Entusiasta de Marketing Digital | Apasionado por la Tecnología</h3>
 
 <p align="center">
   <em>
